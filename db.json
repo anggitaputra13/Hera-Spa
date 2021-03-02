@@ -1,0 +1,120 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "name": "Balinese Massage",
+      "price": 75000,
+      "duration": 1,
+      "isready": true,
+      "image": "foto1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fasial Biocos",
+      "price": 75000,
+      "duration": 0,
+      "isready": true,
+      "image": "foto2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Foot Reflexology",
+      "price": 50000,
+      "duration": 1,
+      "isready": true,
+      "image": "foto3.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Balinese Massage",
+      "price": 75000,
+      "duration": 1,
+      "isready": true,
+      "image": "foto1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fasial Biocos",
+      "price": 75000,
+      "duration": 0,
+      "isready": true,
+      "image": "foto2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Foot Reflexology",
+      "price": 50000,
+      "duration": 1,
+      "isready": true,
+      "image": "foto3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nail Gel Hand & Food",
+      "price": 120000,
+      "duration": 1,
+      "isready": true,
+      "image": "foto4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nail Tip Hand & Food",
+      "price": 150000,
+      "duration": 1,
+      "isready": true,
+      "image": "foto5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Eyelash",
+      "price": 120000,
+      "duration": 1,
+      "isready": true,
+      "image": "foto4.jpg"
+    }
+  ],
+  "pesanan": [],
+  "keranjang": [
+    {
+      "jml_pesanan": "1",
+      "jml_waktu": "1",
+      "products": {
+        "id": 1,
+        "name": "Balinese Massage",
+        "price": 75000,
+        "duration": 1,
+        "isready": true,
+        "image": "foto1.jpg"
+      },
+      "id": 1
+    },
+    {
+      "jml_pesanan": "1",
+      "jml_waktu": "1",
+      "products": {
+        "id": 1,
+        "name": "Balinese Massage",
+        "price": 75000,
+        "duration": 1,
+        "isready": true,
+        "image": "foto1.jpg"
+      },
+      "id": 2
+    },
+    {
+      "jml_pesanan": "2",
+      "jml_waktu": "3",
+      "products": {
+        "id": 1,
+        "name": "Balinese Massage",
+        "price": 75000,
+        "duration": 1,
+        "isready": true,
+        "image": "foto1.jpg"
+      },
+      "id": 3
+    }
+  ]
+}

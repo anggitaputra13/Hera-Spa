@@ -1,8 +1,9 @@
 <template>
   <div>
     <b-navbar toggleable="lg" type="light" variant="white">
-      <!-- <b-navbar-brand href="#">NavBar</b-navbar-brand> -->
-      <b-navbar-brand href="/">
+      <div class="container">
+        <!-- <b-navbar-brand href="#">NavBar</b-navbar-brand> -->
+      <b-navbar-brand href="/" style="height: 20%; width: 50%;">
         <img :src="require('../assets/images/logo.png')"  style="height: 30%; width: 30%;"/>
       </b-navbar-brand>
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -21,6 +22,7 @@
            </router-link>
         </b-navbar-nav>
       </b-collapse>
+      </div>
     </b-navbar>
   </div>
 </template>
