@@ -1,5 +1,5 @@
 {
-  "best-products": [
+  "bestproducts": [
     {
       "id": 1,
       "name": "Balinese Massage",
@@ -23,6 +23,30 @@
       "duration": 1,
       "isready": true,
       "image": "foto3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nail Gel Hand & Food",
+      "price": 120000,
+      "duration": 1,
+      "isready": true,
+      "image": "foto4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nail Tip Hand & Food",
+      "price": 150000,
+      "duration": 1,
+      "isready": true,
+      "image": "foto5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Eyelash",
+      "price": 120000,
+      "duration": 1,
+      "isready": true,
+      "image": "foto4.jpg"
     }
   ],
   "products": [
