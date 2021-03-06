@@ -6,6 +6,9 @@ import { BootstrapVue, BootstrapVueIcons } from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import './assets/css/main.css'
+import { firestorePlugin } from 'vuefire'
+
+Vue.use(firestorePlugin)
 
 Vue.use(BootstrapVue)
 Vue.use(BootstrapVueIcons)

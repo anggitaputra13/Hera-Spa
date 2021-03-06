@@ -2,6 +2,8 @@
   <div class="home">
     <Navbar />
     <Hero />
+    <Aboutcomp />
+    
     <div class="container">
       <div class="d-none d-md-block">
         <div class="row mt-4">
@@ -35,6 +37,9 @@
         </div>
       </div>
     </div>
+    <Album />
+    <Review />
+    <Location />
     <About />
     <Footer />
   </div>
@@ -45,18 +50,26 @@
 import Navbar from "@/components/Navbar.vue";
 import Hero from "@/components/Hero.vue";
 import Cardproduct from "@/components/Cardproduct.vue";
+import Aboutcomp from "@/components/Aboutcomp.vue";
+import Album from "@/components/Album.vue";
+import Location from "@/components/Location.vue";
 import About from "@/views/About.vue";
 import Footer from "@/components/Footer.vue";
 import axios from "axios";
+import Review from '../components/review.vue';
 
 export default {
   name: "Home",
   components: {
     Navbar,
     Hero,
+    Aboutcomp,
     Cardproduct,
+    Album,
+    Location,
     About,
     Footer,
+    Review,
   },
   data() {
     return {
@@ -71,7 +84,7 @@ export default {
   },
   mounted() {
     axios
-      .get("https://my-json-server.typicode.com/anggitaputra13/Hera-Spa/best-products")
+      .get("https://my-json-server.typicode.com/anggitaputra13/Hera-Spa/bestproducts")
       .then((response) => this.setProduct(response.data))
       .catch((error) => console.log(error));
   },
