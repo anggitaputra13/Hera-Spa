@@ -1,5 +1,7 @@
 # heraspa
 
+Simple Web Company Project Using Vue JS + Json Placeholder 
+
 ## Project setup
 ```
 npm install
