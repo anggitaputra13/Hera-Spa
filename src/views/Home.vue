@@ -33,7 +33,9 @@
       <!-- end versi mobile -->
       <div class="row mb-1">
         <div class="col-md-4 mt-4" v-for="product in products" :key="product.id">
-          <Cardproduct :product="product"/>
+          <div v-if="product.id<7">
+             <Cardproduct :product="product"/>
+          </div>
         </div>
       </div>
     </div>
@@ -49,7 +51,7 @@
 // @ is an alias to /src
 import Navbar from "@/components/Navbar.vue";
 import Hero from "@/components/Hero.vue";
-import Cardproduct from "@/components/Cardproduct.vue";
+import Cardproduct from "@/components/packet/Cardproduct.vue";
 import Aboutcomp from "@/components/Aboutcomp.vue";
 import Album from "@/components/Album.vue";
 import Location from "@/components/Location.vue";

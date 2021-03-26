@@ -42,7 +42,7 @@
 import Navbar from "@/components/Navbar.vue";
 import Footer from "@/components/Footer.vue";
 import axios from "axios";
-import Cardproduct from "@/components/Cardproduct.vue";
+import Cardproduct from "@/components/packet/Cardproduct.vue";
 
 export default {
   name: "Packet",

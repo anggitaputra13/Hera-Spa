@@ -1,144 +1,390 @@
 {
-  "bestproducts": [
+  "massage": [
     {
-      "id": 1,
-      "name": "Balinese Massage",
-      "price": 75000,
-      "duration": 1,
+      "id":1,
+      "name": "Foot Massage Packet 1",
+      "price": 90000,
+      "duration": 0.5,
+      "person": 1,
       "isready": true,
-      "image": "foto1.jpg"
+      "image": "foot-massage.jpg"
     },
     {
-      "id": 2,
-      "name": "Fasial Biocos",
-      "price": 75000,
-      "duration": 0,
-      "isready": true,
-      "image": "foto2.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Foot Reflexology",
-      "price": 50000,
-      "duration": 1,
-      "isready": true,
-      "image": "foto3.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Nail Gel Hand & Food",
-      "price": 120000,
-      "duration": 1,
-      "isready": true,
-      "image": "foto4.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Nail Tip Hand & Food",
+      "id":2,
+      "name": "Foot Massage Packet 2",
       "price": 150000,
       "duration": 1,
+      "person": 1,
       "isready": true,
-      "image": "foto5.jpg"
+      "image": "foot-massage.jpg"
     },
     {
-      "id": 6,
-      "name": "Eyelash",
-      "price": 120000,
-      "duration": 1,
+      "id":3,
+      "name": "Full Back or Head & Scalp Massage",
+      "price": 90000,
+      "duration": 0.5,
+      "person": 1,
       "isready": true,
-      "image": "foto4.jpg"
-    }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "name": "Balinese Massage",
-      "price": 75000,
-      "duration": 1,
-      "isready": true,
-      "image": "foto1.jpg"
+      "image": "back-massage.jpg"
     },
     {
-      "id": 2,
-      "name": "Fasial Biocos",
-      "price": 75000,
-      "duration": 0,
-      "isready": true,
-      "image": "foto2.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Foot Reflexology",
-      "price": 50000,
-      "duration": 1,
-      "isready": true,
-      "image": "foto3.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Nail Gel Hand & Food",
-      "price": 120000,
-      "duration": 1,
-      "isready": true,
-      "image": "foto4.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Nail Tip Hand & Food",
+      "id":4,
+      "name": "Full Back or Head & Scalp Massage",
       "price": 150000,
       "duration": 1,
+      "person": 1,
       "isready": true,
-      "image": "foto5.jpg"
+      "image": "back-massage.jpg"
     },
     {
-      "id": 6,
-      "name": "Eyelash",
-      "price": 120000,
+      "id":5,
+      "name": "Stone Massage Packet 1",
+      "price": 195000,
       "duration": 1,
+      "person": 1,
       "isready": true,
-      "image": "foto4.jpg"
+      "image": "stone-massage.jpg"
+    },
+    {
+      "id":6,
+      "name": "Stone Massage Packet 2",
+      "price": 255000,
+      "duration": 1.5,
+      "person": 1,
+      "isready": true,
+      "image": "stone-massage.jpg"
+    },
+    {
+      "id":7,
+      "name": "Herbal Massage Packet 1",
+      "price": 210000,
+      "duration": 1,
+      "person": 1,
+      "isready": true,
+      "image": "herbal-massage.jpg"
+    },
+    {
+      "id":8,
+      "name": "Herbal Massage Packet 2",
+      "price": 265000,
+      "duration": 1.5,
+      "person": 1,
+      "isready": true,
+      "image": "herbal-massage.jpg"
+    },
+    {
+      "id":9,
+      "name": "Body Massage With Scrub Packet 1",
+      "price": 240000,
+      "duration": 1,
+      "person": 1,
+      "isready": true,
+      "image": "scrub-massage.jpg"
+    },
+    {
+      "id":10,
+      "name": "Body Massage With Scrb Packet 2",
+      "price": 280000,
+      "duration": 1.5,
+      "person": 1,
+      "isready": true,
+      "image": "scrub-massage.jpg"
+    },
+    {
+      "id":11,
+      "name": "Foot Reflexology",
+      "price": 50000,
+      "duration": 0.5,
+      "person": 1,
+      "isready": true,
+      "image": "scrub-massage.jpg"
     }
   ],
-  "pesanan": [],
-  "keranjang": [
-    {
-      "jml_pesanan": "1",
-      "jml_waktu": "1",
-      "products": {
-        "id": 1,
-        "name": "Balinese Massage",
-        "price": 75000,
-        "duration": 1,
-        "isready": true,
-        "image": "foto1.jpg"
-      },
-      "id": 1
-    },
-    {
-      "jml_pesanan": "1",
-      "jml_waktu": "1",
-      "products": {
-        "id": 1,
-        "name": "Balinese Massage",
-        "price": 75000,
-        "duration": 1,
-        "isready": true,
-        "image": "foto1.jpg"
-      },
-      "id": 2
-    },
-    {
-      "jml_pesanan": "2",
-      "jml_waktu": "3",
-      "products": {
-        "id": 1,
-        "name": "Balinese Massage",
-        "price": 75000,
-        "duration": 1,
-        "isready": true,
-        "image": "foto1.jpg"
-      },
-      "id": 3
-    }
-  ]
+ "fullbody-massage": [
+  {
+    "id":1,
+    "name": "Balinese Massage Packet 1",
+    "price": 90000,
+    "duration": 0.5,
+    "person": 1,
+    "isready": true,
+    "image": "balinese-massage.jpg"
+  },
+  {
+    "id":2,
+    "name": "Balinese Massage Packet 2",
+    "price": 150000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "balinese-massage.jpg"
+  },
+  {
+    "id":3,
+    "name": "Balinese Massage Packet 3",
+    "price": 200000,
+    "duration": 1.5,
+    "person": 1,
+    "isready": true,
+    "image": "balinese-massage.jpg"
+  }
+ ],
+ "Facials": [
+  {
+    "id":1,
+    "name": "Smart Express Facial",
+    "price": 85000,
+    "duration": 0.5,
+    "person": 1,
+    "isready": true,
+    "image": "facial.jfif"
+  },
+  {
+    "id":2,
+    "name": "Men's Facial",
+    "price": 165000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "facial.jfif"
+  },
+  {
+    "id":3,
+    "name": "Facial Biocos",
+    "price": 75000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "facial.jfif"
+  }
+ ],
+ "Nails": [
+   {
+    "id":1,
+    "name": "Manicure Basic",
+    "price": 60000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "manicure.jpg"
+   },
+   {
+    "id":2,
+    "name": "Pedicure Basic",
+    "price": 60000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "pedicure.jfif"
+   },
+   {
+    "id":3,
+    "name": "Nail Gel Hand & Foot",
+    "price": 120000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "nailgel.jfif"
+   },
+   {
+    "id":4,
+    "name": "Nail Tip Hand & Foot",
+    "price": 150000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "nailtip.jpg"
+   }
+],
+"allproduct": [
+  {
+    "id":1,
+    "name": "Foot Massage Packet 1",
+    "price": 90000,
+    "duration": 0.5,
+    "person": 1,
+    "isready": true,
+    "image": "foot-massage.jpg"
+  },
+  {
+    "id":2,
+    "name": "Foot Massage Packet 2",
+    "price": 150000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "foot-massage.jpg"
+  },
+  {
+    "id":3,
+    "name": "Full Back or Head & Scalp Massage",
+    "price": 90000,
+    "duration": 0.5,
+    "person": 1,
+    "isready": true,
+    "image": "back-massage.jpg"
+  },
+  {
+    "id":4,
+    "name": "Full Back or Head & Scalp Massage",
+    "price": 150000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "back-massage.jpg"
+  },
+  {
+    "id":5,
+    "name": "Stone Massage Packet 1",
+    "price": 195000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "stone-massage.jpg"
+  },
+  {
+    "id":6,
+    "name": "Stone Massage Packet 2",
+    "price": 255000,
+    "duration": 1.5,
+    "person": 1,
+    "isready": true,
+    "image": "stone-massage.jpg"
+  },
+  {
+    "id":7,
+    "name": "Herbal Massage Packet 1",
+    "price": 210000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "herbal-massage.jpg"
+  },
+  {
+    "id":8,
+    "name": "Herbal Massage Packet 2",
+    "price": 265000,
+    "duration": 1.5,
+    "person": 1,
+    "isready": true,
+    "image": "herbal-massage.jpg"
+  },
+  {
+    "id":9,
+    "name": "Body Massage With Scrub Packet 1",
+    "price": 240000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "scrub-massage.jpg"
+  },
+  {
+    "id":10,
+    "name": "Body Massage With Scrb Packet 2",
+    "price": 280000,
+    "duration": 1.5,
+    "person": 1,
+    "isready": true,
+    "image": "scrub-massage.jpg"
+  },
+  {
+    "id":11,
+    "name": "Foot Reflexology",
+    "price": 50000,
+    "duration": 0.5,
+    "person": 1,
+    "isready": true,
+    "image": "scrub-massage.jpg"
+  },
+  {
+    "id":12,
+    "name": "Balinese Massage Packet 1",
+    "price": 90000,
+    "duration": 0.5,
+    "person": 1,
+    "isready": true,
+    "image": "balinese-massage.jpg"
+  },
+  {
+    "id":13,
+    "name": "Balinese Massage Packet 2",
+    "price": 150000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "balinese-massage.jpg"
+  },
+  {
+    "id":14,
+    "name": "Balinese Massage Packet 3",
+    "price": 200000,
+    "duration": 1.5,
+    "person": 1,
+    "isready": true,
+    "image": "balinese-massage.jpg"
+  },
+  {
+    "id":15,
+    "name": "Smart Express Facial",
+    "price": 85000,
+    "duration": 0.5,
+    "person": 1,
+    "isready": true,
+    "image": "facial.jfif"
+  },
+  {
+    "id":16,
+    "name": "Men's Facial",
+    "price": 165000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "facial.jfif"
+  },
+  {
+    "id":17,
+    "name": "Facial Biocos",
+    "price": 75000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "facial.jfif"
+  },
+  {
+    "id":18,
+    "name": "Manicure Basic",
+    "price": 60000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "manicure.jpg"
+   },
+   {
+    "id":19,
+    "name": "Pedicure Basic",
+    "price": 60000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "pedicure.jfif"
+   },
+   {
+    "id":20,
+    "name": "Nail Gel Hand & Foot",
+    "price": 120000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "nailgel.jfif"
+   },
+   {
+    "id":21,
+    "name": "Nail Tip Hand & Foot",
+    "price": 150000,
+    "duration": 1,
+    "person": 1,
+    "isready": true,
+    "image": "nailtip.jpg"
+   }
+]
 }
