@@ -79,7 +79,7 @@
       "duration": 1,
       "person": 1,
       "isready": true,
-      "image": "scrub-massage.jpg"
+      "image": "scrub-massage.jfif"
     },
     {
       "id":10,
@@ -88,7 +88,7 @@
       "duration": 1.5,
       "person": 1,
       "isready": true,
-      "image": "scrub-massage.jpg"
+      "image": "scrub-massage.jfif"
     },
     {
       "id":11,
@@ -97,7 +97,7 @@
       "duration": 0.5,
       "person": 1,
       "isready": true,
-      "image": "scrub-massage.jpg"
+      "image": "foot-massage.jpg"
     }
   ],
  "fullbody-massage": [
@@ -276,7 +276,7 @@
     "duration": 1,
     "person": 1,
     "isready": true,
-    "image": "scrub-massage.jpg"
+    "image": "scrub-massage.jfif"
   },
   {
     "id":10,
@@ -285,7 +285,7 @@
     "duration": 1.5,
     "person": 1,
     "isready": true,
-    "image": "scrub-massage.jpg"
+    "image": "scrub-massage.jfif"
   },
   {
     "id":11,
@@ -294,7 +294,7 @@
     "duration": 0.5,
     "person": 1,
     "isready": true,
-    "image": "scrub-massage.jpg"
+    "image": "foot-massage.jpg"
   },
   {
     "id":12,
