@@ -20,7 +20,7 @@
     },
     {
       "id":3,
-      "name": "Full Back or Head & Scalp Massage",
+      "name": "Full Back or Head Massage",
       "price": 90000,
       "duration": 0.5,
       "person": 1,
@@ -29,7 +29,7 @@
     },
     {
       "id":4,
-      "name": "Full Back or Head & Scalp Massage",
+      "name": "Full Back or Head Massage",
       "price": 150000,
       "duration": 1,
       "person": 1,
@@ -74,7 +74,7 @@
     },
     {
       "id":9,
-      "name": "Body Massage With Scrub Packet 1",
+      "name": "Body Massage With Scrub",
       "price": 240000,
       "duration": 1,
       "person": 1,
@@ -83,7 +83,7 @@
     },
     {
       "id":10,
-      "name": "Body Massage With Scrb Packet 2",
+      "name": "Body Massage With Scrub",
       "price": 280000,
       "duration": 1.5,
       "person": 1,
@@ -217,7 +217,7 @@
   },
   {
     "id":3,
-    "name": "Full Back or Head & Scalp Massage",
+    "name": "Full Back or Head Massage",
     "price": 90000,
     "duration": 0.5,
     "person": 1,
@@ -226,7 +226,7 @@
   },
   {
     "id":4,
-    "name": "Full Back or Head & Scalp Massage",
+    "name": "Full Back or Head Massage",
     "price": 150000,
     "duration": 1,
     "person": 1,
@@ -271,7 +271,7 @@
   },
   {
     "id":9,
-    "name": "Body Massage With Scrub Packet 1",
+    "name": "Body Massage With Scrub",
     "price": 240000,
     "duration": 1,
     "person": 1,
@@ -280,7 +280,7 @@
   },
   {
     "id":10,
-    "name": "Body Massage With Scrb Packet 2",
+    "name": "Body Massage With Scrb",
     "price": 280000,
     "duration": 1.5,
     "person": 1,
