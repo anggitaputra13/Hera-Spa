@@ -51,7 +51,7 @@
 // @ is an alias to /src
 import Navbar from "@/components/Navbar.vue";
 import Hero from "@/components/Hero.vue";
-import Cardproduct from "@/components/packet/Cardproduct.vue";
+import Cardproduct from "@/components/Cardproduct.vue";
 import Aboutcomp from "@/components/Aboutcomp.vue";
 import Album from "@/components/Album.vue";
 import Location from "@/components/Location.vue";
@@ -86,7 +86,7 @@ export default {
   },
   mounted() {
     axios
-      .get("https://my-json-server.typicode.com/anggitaputra13/Hera-Spa/bestproducts")
+      .get("https://my-json-server.typicode.com/anggitaputra13/Hera-Spa/allproduct")
       .then((response) => this.setProduct(response.data))
       .catch((error) => console.log(error));
   },

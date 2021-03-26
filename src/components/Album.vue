@@ -14,42 +14,42 @@
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-md-4 g-4 ">
         <div class="col mb-3">
           <div class="card shadow-sm">
-           <img :src="'images/foto1.jpg'" alt="">
+           <img :src="'images/foot-massage.jpg'" alt="">
           </div>
         </div>
         <div class="col mb-3">
           <div class="card shadow-sm">
-           <img :src="'images/foto2.jpg'" alt="">
+           <img :src="'images/back-massage.jpg'" alt="">
           </div>
         </div>
         <div class="col mb-3">
           <div class="card shadow-sm">
-           <img :src="'images/foto1.jpg'" alt="">
+           <img :src="'images/stone-massage.jpg'" alt="">
           </div>
         </div>
         <div class="col mb-3">
           <div class="card shadow-sm">
-           <img :src="'images/foto1.jpg'" alt="">
+           <img :src="'images/herbal-massage.jpg'" alt="">
           </div>
         </div>
         <div class="col mb-3">
           <div class="card shadow-sm">
-           <img :src="'images/foto2.jpg'" alt="">
+           <img :src="'images/scrub-massage.jfif'" alt="">
           </div>
         </div>
         <div class="col mb-3">
           <div class="card shadow-sm">
-           <img :src="'images/foto1.jpg'" alt="">
+           <img :src="'images/foot-massage.jpg'" alt="">
           </div>
         </div>
         <div class="col mb-3">
           <div class="card shadow-sm">
-           <img :src="'images/foto2.jpg'" alt="">
+           <img :src="'images/balinese-massage.jpg'" alt="">
           </div>
         </div>
         <div class="col mb-3">
           <div class="card shadow-sm">
-           <img :src="'images/foto1.jpg'" alt="">
+           <img :src="'images/facial.jfif'" alt="">
           </div>
         </div>
       </div>
