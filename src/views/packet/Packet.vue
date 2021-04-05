@@ -4,16 +4,52 @@
 
     <div class="container">
       <div class="row mt-4">
-        <div class="col">
+        <div class="col d-none d-md-block">
           <div>
-            <b-nav tabs fill>>
-              <router-link class="nav-link" style="color: black" to="/packet">All Packet</router-link>
-              <router-link class="nav-link" style="color: black" to="/massage">Massage</router-link>
-              <router-link class="nav-link" style="color: black" to="/facials">Facials</router-link>
-              <router-link class="nav-link" style="color: black" to="/fullbody">Full Body Massage</router-link>
-              <router-link class="nav-link" style="color: black" to="/nails">Nails</router-link>
+            <b-nav tabs fill
+              >
+              <router-link class="nav-link" style="color: black" to="/packet"
+                >All Packet</router-link
+              >
+              <router-link class="nav-link" style="color: black" to="/facials"
+                >Facials</router-link
+              >
+              <router-link class="nav-link" style="color: black" to="/fullbody"
+                >Fullbody Massage</router-link
+              >
+              <router-link class="nav-link" style="color: black" to="/massage"
+                >Massage</router-link
+              >
+              <router-link class="nav-link" style="color: black" to="/nails"
+                >Nails</router-link
+              >
             </b-nav>
           </div>
+        </div>
+        <div class="col d-sm-block d-md-none">
+          <b-dropdown
+            text="Packet Massage Category"
+            block
+            variant="success"
+            class="m-2"
+            menu-class="w-100"
+          >
+            <router-link class="nav-link" style="color: black" to="/packet"
+                >All Packet</router-link
+              >
+              <router-link class="nav-link" style="color: black" to="/massage"
+                >Massage</router-link
+              >
+              <router-link class="nav-link" style="color: black" to="/facials"
+                >Facials</router-link
+              >
+              <router-link class="nav-link" style="color: black" to="/fullbody"
+                >Fullbody Massage</router-link
+              >
+              <router-link class="nav-link" style="color: black" to="/nails"
+                >Nails</router-link
+              >
+          </b-dropdown>
         </div>
       </div>
       <div class="row mt-3">

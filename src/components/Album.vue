@@ -79,16 +79,28 @@
     >
       <!-- Text slides with image -->
       <b-carousel-slide
-        img-src="/images/s1.JPG"
+        img-src="/images/foot-massage.jpg"
       ></b-carousel-slide>
       <b-carousel-slide
-        img-src="/images/s2.JPG" 
+        img-src="/images/back-massage.jpg" 
       ></b-carousel-slide>
       <b-carousel-slide
-        img-src="/images/s3.JPG" 
+        img-src="/images/stone-massage.jpg" 
       ></b-carousel-slide>
        <b-carousel-slide
-        img-src="/images/s4.JPG" 
+        img-src="/images/herbal-massage.jpg" 
+      ></b-carousel-slide>
+      <b-carousel-slide
+        img-src="/images/scrub-massage.jfif"
+      ></b-carousel-slide>
+      <b-carousel-slide
+        img-src="images/balinese-massage.jpg" 
+      ></b-carousel-slide>
+      <b-carousel-slide
+        img-src="/images/facial.jfif" 
+      ></b-carousel-slide>
+       <b-carousel-slide
+        img-src="/images/herbal-massage.jpg" 
       ></b-carousel-slide>
     </b-carousel>
       </div>
