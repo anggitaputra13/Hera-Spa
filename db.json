@@ -79,7 +79,7 @@
       "duration": 1,
       "person": 1,
       "isready": true,
-      "image": "scrub-massage.jfif"
+      "image": "scrub-massage.jpg"
     },
     {
       "id":10,
@@ -88,7 +88,7 @@
       "duration": 1.5,
       "person": 1,
       "isready": true,
-      "image": "scrub-massage.jfif"
+      "image": "scrub-massage.jpg"
     },
     {
       "id":11,
@@ -137,7 +137,7 @@
     "duration": 0.5,
     "person": 1,
     "isready": true,
-    "image": "facial.jfif"
+    "image": "facial.jpg"
   },
   {
     "id":2,
@@ -146,7 +146,7 @@
     "duration": 1,
     "person": 1,
     "isready": true,
-    "image": "facial.jfif"
+    "image": "facial.jpg"
   },
   {
     "id":3,
@@ -155,7 +155,7 @@
     "duration": 1,
     "person": 1,
     "isready": true,
-    "image": "facial.jfif"
+    "image": "facial.jpg"
   }
  ],
  "Nails": [
@@ -175,7 +175,7 @@
     "duration": 1,
     "person": 1,
     "isready": true,
-    "image": "pedicure.jfif"
+    "image": "pedicure.jpg"
    },
    {
     "id":3,
@@ -184,7 +184,7 @@
     "duration": 1,
     "person": 1,
     "isready": true,
-    "image": "nailgel.jfif"
+    "image": "nailgel.jpg"
    },
    {
     "id":4,
@@ -276,7 +276,7 @@
     "duration": 1,
     "person": 1,
     "isready": true,
-    "image": "scrub-massage.jfif"
+    "image": "scrub-massage.jpg"
   },
   {
     "id":10,
@@ -285,7 +285,7 @@
     "duration": 1.5,
     "person": 1,
     "isready": true,
-    "image": "scrub-massage.jfif"
+    "image": "scrub-massage.jpg"
   },
   {
     "id":11,
@@ -330,7 +330,7 @@
     "duration": 0.5,
     "person": 1,
     "isready": true,
-    "image": "facial.jfif"
+    "image": "facial.jpg"
   },
   {
     "id":16,
@@ -339,7 +339,7 @@
     "duration": 1,
     "person": 1,
     "isready": true,
-    "image": "facial.jfif"
+    "image": "facial.jpg"
   },
   {
     "id":17,
@@ -348,7 +348,7 @@
     "duration": 1,
     "person": 1,
     "isready": true,
-    "image": "facial.jfif"
+    "image": "facial.jpg"
   },
   {
     "id":18,
@@ -366,7 +366,7 @@
     "duration": 1,
     "person": 1,
     "isready": true,
-    "image": "pedicure.jfif"
+    "image": "pedicure.jpg"
    },
    {
     "id":20,
@@ -375,7 +375,7 @@
     "duration": 1,
     "person": 1,
     "isready": true,
-    "image": "nailgel.jfif"
+    "image": "nailgel.jpg"
    },
    {
     "id":21,

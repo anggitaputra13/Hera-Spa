@@ -34,7 +34,7 @@
         </div>
         <div class="col mb-3">
           <div class="card shadow-sm">
-           <img :src="'images/scrub-massage.jfif'" alt="">
+           <img :src="'images/scrub-massage.jpg'" alt="">
           </div>
         </div>
         <div class="col mb-3">
@@ -49,7 +49,7 @@
         </div>
         <div class="col mb-3">
           <div class="card shadow-sm">
-           <img :src="'images/facial.jfif'" alt="">
+           <img :src="'images/facial.jpg'" alt="">
           </div>
         </div>
       </div>
