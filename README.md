@@ -1,3 +1,3 @@
-A Simple Web Static Page Using Vue Js & Json Placeholder For Get Data
+Simple Web Company Project Using Vue JS + Json Placeholder + Sheetdb.io as database
 
-Link : https://heraspabali.netlify.app/
+link preview : https://heraspabali.netlify.app/
